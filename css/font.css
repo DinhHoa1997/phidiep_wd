@@ -1,0 +1,24 @@
+@font-face {
+    font-family:Garamond;
+    src: url('/css/fonts/GaramondPremrPro.otf');
+    font-display: swap;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family:Garamond-B;
+    src: url('fonts/GaramondPremrPro-Capt.otf');
+    font-display: swap;
+
+    font-weight: normal;
+}
+
+@font-face {
+    font-family:UTM;
+    src: url('fonts/UTM-Yen-Tu.ttf');
+    font-display: swap;
+    font-weight: 500;
+
+    line-height: 1;
+}
